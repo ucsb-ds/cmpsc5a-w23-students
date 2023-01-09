@@ -1,3 +1,3 @@
-# cmpsc5a-f22-students
-public repo for CMPSC 5A, Fall 2022 at UCSB
+# cmpsc5a-w23-students
+public repo for CMPSC 5A, Winter 2023 at UCSB
 course materials
